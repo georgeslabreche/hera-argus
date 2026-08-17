@@ -4,7 +4,7 @@ ARGUS is an onboard image triage experiment proposed for ESA's Hera mission. ARG
 
 ## Live demo
 
-https://georgeslabreche.github.io/hera-argus/
+https://georges.fyi/hera-argus/
 
 Or open `index.html` locally in any modern browser. The page is fully self-contained: no server, no internet connection, and no installation needed. The 404 real Asteroid Framing Camera images and the complete detection algorithm are embedded in the file.
 
