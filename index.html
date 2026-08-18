@@ -310,9 +310,10 @@
     0%, 100% { filter: hue-rotate(0deg); }
     50% { filter: hue-rotate(38deg); }
   }
-  #peacock-text { position: absolute; top: 84vh; left: 50%;
+  #peacock-text { position: absolute; bottom: 8vh; left: 50%;
     transform: translateX(-50%); font-family: Georgia, serif;
-    color: #1baf7a; white-space: nowrap;
+    color: #1baf7a; max-width: 92vw; width: max-content;
+    text-align: center; line-height: 1.6;
     font-size: clamp(13px, 2.4vw, 23px);
     letter-spacing: clamp(2px, 0.55vw, 6px);
     text-shadow: 0 0 20px rgba(27, 175, 122, 0.5);
